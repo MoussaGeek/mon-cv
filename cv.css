@@ -1,0 +1,11 @@
+body{
+	background-color: orange;
+
+}
+.flex{
+	display: flex;
+	justify-content: space-between;
+}
+#moi.jpg{
+	height: 80px;
+}
